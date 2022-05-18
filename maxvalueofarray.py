@@ -10,6 +10,6 @@ def extractMax(input):
 
 if __name__ == "__main__":
 
-	input = '100klh564abc365bg'
+	input = 'kajdkjla921398asd19sdadads8123adjsk'
 
 	extractMax(input)
